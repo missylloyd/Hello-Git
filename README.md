@@ -1,2 +1,2 @@
 # Hello-Git
-First test drive of this hub
+This is the first-time test drive of this hub
